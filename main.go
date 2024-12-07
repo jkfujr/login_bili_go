@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	bili.Login()
+	bili.LaunchGUI()
 }
